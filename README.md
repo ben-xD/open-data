@@ -1,4 +1,4 @@
-# Open Data
+# Climate Policy Radar Open Data
 
 The full text of thousands of climate laws and policies from around the world.
 
