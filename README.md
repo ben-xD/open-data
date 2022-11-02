@@ -4,6 +4,17 @@ The full text of thousands of climate laws and policies from around the world.
 
 Search through these using [our tool]("https://app.climatepolicyradar.org").
 
+## Contents
+
+At the moment this is the data used to power the alpha version of our search tool:
+
+* all the metadata of over 3,000 laws and policies, and
+* the full text and metadata of just over 1,000 laws and policies.
+
+We're missing the full text of some of these documents as we've so far only parsed text out of English language PDFs. We'll keep this repository up to date as we add more documents to our tool.
+
+> **NOTE:** there are no guarantees that we'll keep the data structure backwards compatible with previous versions, as we're still in alpha. We recommend that you pin to a specific commit if you want to use this data.
+
 ## Data Structure
 
 The data in the `data` folder is organised into subfolders by country. 
